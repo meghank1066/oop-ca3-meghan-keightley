@@ -73,8 +73,9 @@ public class CA3_Question1 {
                 }
 
             } else if (number == 0) {
-                 break;
-             }
+
+                break;
+            }
 
             System.out.println("Driveway: " + driveway);
             System.out.println("Street: " + street);
