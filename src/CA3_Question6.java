@@ -30,7 +30,6 @@ public class CA3_Question6
 
         do {
             System.out.print("Enter command: ");
-            System.out.print(">");
             command = in.next();
 
             if (command.equalsIgnoreCase("buy")) {
